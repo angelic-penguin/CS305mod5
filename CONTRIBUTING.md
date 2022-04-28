@@ -1,2 +1,2 @@
 # Collaborators' Contributions
-- Nhat Linh Nguyen is here
+- Nhat Linh Nguyen as a contributor
